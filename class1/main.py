@@ -27,4 +27,4 @@ while True:
         else:
             print("No se puede dividir entre cero")
     else:
-        print("¡Gracias por usar Mi Calculadora!")
+        print("¡Gracias por usar Mi Calculadora!")

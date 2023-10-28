@@ -108,8 +108,6 @@ La funcion 'set' tambien elimina los numeros repetidos, tambien los ordena.
   ¿Que es un patron decorador? Es una funcion que modifica el comportamiento de otra funcion.
 
 
-
-
-  
+"""commit"""
 
   
